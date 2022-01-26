@@ -1,5 +1,4 @@
 .DS_Store
 tmp/*
-*.xml
 *.txt
 *.csv
